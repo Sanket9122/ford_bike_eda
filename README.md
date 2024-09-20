@@ -1,5 +1,5 @@
 # Ford GoBike System Data Exploration
-## by Ayanwoye Gideon Ayandele
+
 
 ## Overview
 Ford GoBike System Data Exploration and Findings Communication: This document explores a dataset with information about individual rides made in a bike-sharing system  in 2019
